@@ -1,0 +1,9 @@
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\Шаблон\Шаблон\bin\Debug\Шаблон.exe.config
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\Шаблон\Шаблон\bin\Debug\Шаблон.exe
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\Шаблон\Шаблон\bin\Debug\Шаблон.pdb
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\Шаблон\Шаблон\obj\Debug\Шаблон.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\Шаблон\Шаблон\obj\Debug\Шаблон.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\Шаблон\Шаблон\obj\Debug\Шаблон.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\Шаблон\Шаблон\obj\Debug\Шаблон.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\Шаблон\Шаблон\obj\Debug\Шаблон.exe
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\Шаблон\Шаблон\obj\Debug\Шаблон.pdb

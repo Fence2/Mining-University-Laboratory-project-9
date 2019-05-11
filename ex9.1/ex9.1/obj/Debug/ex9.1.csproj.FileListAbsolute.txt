@@ -1,0 +1,12 @@
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\ex9.1\ex9.1\bin\Debug\ex9.1.exe.config
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\ex9.1\ex9.1\bin\Debug\ex9.1.exe
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\ex9.1\ex9.1\bin\Debug\ex9.1.pdb
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\ex9.1\ex9.1\obj\Debug\ex9.1.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\ex9.1\ex9.1\obj\Debug\ex9._1.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\ex9.1\ex9.1\obj\Debug\ex9._1.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\ex9.1\ex9.1\obj\Debug\ex9.1.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\ex9.1\ex9.1\obj\Debug\ex9.1.exe
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №9\ex9.1\ex9.1\obj\Debug\ex9.1.pdb
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №9\ex9.1\ex9.1\bin\Debug\ex9.1.exe.config
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №9\ex9.1\ex9.1\obj\Debug\ex9.1.exe
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №9\ex9.1\ex9.1\obj\Debug\ex9.1.pdb
